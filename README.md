@@ -2,9 +2,9 @@
 ## Термины
 ## Кто этим занимается
 ## Use-cases
-*Empathy Matters: Embracing Empathy in a Biased World, Unveiling the Complexities of AI Bias and Worldcoin’s Troublesome Debut!!*
+- *Empathy Matters: Embracing Empathy in a Biased World, Unveiling the Complexities of AI Bias and Worldcoin’s Troublesome Debut!!*
 https://medium.com/@jasminbharadiya/empathy-matters-embracing-empathy-in-a-biased-world-unveiling-the-complexities-of-ai-bias-and-c1c4bfaad9f2 
-*The Mirror in the Machine: Generative AI, Bias, and the Quest for Fairness*
+- *The Mirror in the Machine: Generative AI, Bias, and the Quest for Fairness*
 https://medium.com/towards-data-science/the-mirror-in-the-machine-generative-ai-bias-and-the-quest-for-fairness-c39b03a6d48d
 *Evaluating fairness in ChatGPT*
 https://openai.com/index/evaluating-fairness-in-chatgpt/
