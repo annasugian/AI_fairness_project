@@ -32,4 +32,5 @@ https://arxiv.org/abs/2410.12864
 https://arxiv.org/abs/2409.07476
 - *AI as a Tool for Fair Journalism: Case Studies from Malta*
 https://arxiv.org/abs/2407.15316
+- *Advancing Responsible Healthcare AI with Longitudinal EHR Datasets* https://hai.stanford.edu/news/advancing-responsible-healthcare-ai-longitudinal-ehr-datasets
 ## Методы оценки предвзятости
