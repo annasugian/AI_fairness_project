@@ -1,5 +1,5 @@
 # Проект "Предвзятость ИИ"
-## Термины
+## <u>Термины<u>
 ## Кто этим занимается
 ## Use-cases 
 ### *Empathy Matters: Embracing Empathy in a Biased World, Unveiling the Complexities of AI Bias and Worldcoin’s Troublesome Debut!!*
