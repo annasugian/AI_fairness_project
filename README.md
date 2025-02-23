@@ -1,7 +1,7 @@
 # **Проект "Предвзятость ИИ"**
-## _Термины_
-## _Кто этим занимается_
-## _Use-cases_ 
+## Термины
+## Кто этим занимается
+## Use-cases
 ### *Empathy Matters: Embracing Empathy in a Biased World, Unveiling the Complexities of AI Bias and Worldcoin’s Troublesome Debut!!*
 https://medium.com/@jasminbharadiya/empathy-matters-embracing-empathy-in-a-biased-world-unveiling-the-complexities-of-ai-bias-and-c1c4bfaad9f2 
 ### *The Mirror in the Machine: Generative AI, Bias, and the Quest for Fairness*
@@ -32,4 +32,4 @@ https://arxiv.org/abs/2410.12864
 https://arxiv.org/abs/2409.07476
 ### *AI as a Tool for Fair Journalism: Case Studies from Malta*
 https://arxiv.org/abs/2407.15316
-## _Методы оценки предвзятости_
+## Методы оценки предвзятости
