@@ -2,8 +2,8 @@
 ## Термины
 ## Кто этим занимается
 ## Use-cases
-- *Empathy Matters: Embracing Empathy in a Biased World, Unveiling the Complexities of AI Bias and Worldcoin’s Troublesome Debut!!*
-https://medium.com/@jasminbharadiya/empathy-matters-embracing-empathy-in-a-biased-world-unveiling-the-complexities-of-ai-bias-and-c1c4bfaad9f2 - Анализ проблем предвзятости ИИ на примере запуска Worldcoin. Автор использует качественный анализ и case study, чтобы изучить, как эмпатия может быть интегрирована в разработку ИИ для снижения предвзятости.
+- *[Empathy Matters: Embracing Empathy in a Biased World, Unveiling the Complexities of AI Bias and Worldcoin’s Troublesome Debut!!]*
+(https://medium.com/@jasminbharadiya/empathy-matters-embracing-empathy-in-a-biased-world-unveiling-the-complexities-of-ai-bias-and-c1c4bfaad9f2) - Анализ проблем предвзятости ИИ на примере запуска Worldcoin. Автор использует качественный анализ и case study, чтобы изучить, как эмпатия может быть интегрирована в разработку ИИ для снижения предвзятости.
 - *The Mirror in the Machine: Generative AI, Bias, and the Quest for Fairness*
 https://medium.com/towards-data-science/the-mirror-in-the-machine-generative-ai-bias-and-the-quest-for-fairness-c39b03a6d48d - Исследование предвзятости в генеративных моделях ИИ, таких как GPT и DALL-E. Автор применяет анализ выходных данных моделей и сравнительный подход для выявления и устранения социальных предрассудков.
 - *Evaluating fairness in ChatGPT*
