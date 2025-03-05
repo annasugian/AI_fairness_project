@@ -27,67 +27,73 @@
 - **Human-centric AI** - это подход к искусственному интеллекту, который ставит во главу угла человеческое благополучие, ценности и сотрудничество. Он гарантирует, что системы ИИ будут разрабатываться для расширения человеческих возможностей, а не для их замены или контроля.
 - **AI Ethics** относится к этическим принципам и гайдлайнам, которые регулируют разработку, развертывание и использование искусственного интеллекта. Она обеспечивает работу систем ИИ справедливым, прозрачным, подотчетным (accountable) и полезным для общества образом.
 ## Кто этим занимается
-Академические и научные центры, занимающиеся проблемой предвзятости ИИ:
+### Академические и научные центры, занимающиеся проблемой предвзятости ИИ:
 
-Stanford University Institute for Human-Centered Artificial Intelligence:
+**Stanford University Institute for Human-Centered Artificial Intelligence**:
 
-The Geographic Bias in Medical AI Tools (сентябрь 2020)
+[The Geographic Bias in Medical AI Tools](https://hai.stanford.edu/news/geographic-bias-medical-ai-tools) (сентябрь 2020)
 
-Rooting Out Anti-Muslim Bias in Popular Language Model GPT-3 (июль 2021), Large language models associate Muslims with violence (июнь 2021)
+[Rooting Out Anti-Muslim Bias in Popular Language Model GPT-3](https://hai.stanford.edu/news/rooting-out-anti-muslim-bias-popular-language-model-gpt-3) (июль 2021), [Large language models associate Muslims with violence](https://www.nature.com/articles/s42256-021-00359-2) (июнь 2021)
 
-Assessing Political Bias in Language Models (май 2023), Whose Opinions Do Language Models Reflect? (март 2023)
+[Assessing Political Bias in Language Models](https://hai.stanford.edu/news/assessing-political-bias-language-models) (май 2023), [Whose Opinions Do Language Models Reflect?](https://arxiv.org/abs/2303.17548) (март 2023)
 
-Can AI Hold Consistent Values? Stanford Researchers Probe LLM Consistency and Bias (ноябрь 2024), Are Large Language Models Consistent over Value-laden Questions? (июль 2024)
+[Can AI Hold Consistent Values? Stanford Researchers Probe LLM Consistency and Bias](https://hai.stanford.edu/news/can-ai-hold-consistent-values-stanford-researchers-probe-llm-consistency-and-bias) (ноябрь 2024), [Are Large Language Models Consistent over Value-laden Questions?](https://arxiv.org/html/2407.02996v1) (июль 2024)
 
 
-Distributed AI Research Institute (DAIR):
+**Distributed AI Research Institute (DAIR)**:
 
-Racism is an ethical issue for healthcare artificial intelligence (июнь 2024)
+[Racism is an ethical issue for healthcare artificial intelligence](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(24)00321-5) (июнь 2024)
 
-A Human Rights-Based Approach to Responsible AI (октябрь 2022)
+[A Human Rights-Based Approach to Responsible AI](https://arxiv.org/abs/2210.02667) (октябрь 2022)
 
-AI and Inequality in Hiring and Recruiting: A Field Scan (2023)
+[AI and Inequality in Hiring and Recruiting: A Field Scan](https://doi.org/10.34669/wi.cp/5.3) (2023)
 
-Much Ado About Gender: Current Practices and Future Recommendations for Appropriate Gender-Aware Information Access (март 2023)
+[Much Ado About Gender: Current Practices and Future Recommendations for Appropriate Gender-Aware Information Access](https://dl.acm.org/doi/abs/10.1145/3576840.3578316) (март 2023)
 
-ChatGPT Perpetuates Gender Bias in Machine Translation and Ignores Non-Gendered Pronouns: Findings across Bengali and Five other Low-Resource Languages (май 2023)
+[ChatGPT Perpetuates Gender Bias in Machine Translation and Ignores Non-Gendered Pronouns: Findings across Bengali and Five other Low-Resource Languages](https://arxiv.org/abs/2305.10510) (май 2023)
 
-Language (Technology) is Power: A Critical Survey of "Bias" in NLP (май 2020)
----
-**Государственные и межгосударственные инициативы:**
+[Language (Technology) is Power: A Critical Survey of "Bias" in NLP](https://arxiv.org/abs/2005.14050) (май 2020)
 
-В ООН вопросами этичного использования ИИ занимается Global AI Ethics and Governance Observatory при ЮНЕСКО. В ноябре 2021 выпустили свод рекомендаций по использованию ИИ, уделяя внимание проблеме bias
-Recommendation on the Ethics of Artificial Intelligence
+### Государственные и межгосударственные инициативы:
 
-Европейский союз начал создавать экспертные группы по разработке рекомендаций в сфере ИИ в 2017 году. В 2020 году European Commision (высший орган исполнительной власти Европейского союза) утвердила White Paper – документ, очерчивающий этические проблемы ИИ-сферы, по сути – свод рекомендаций по ответственному обращению с данными и добросовестному применению искусственного интеллекта.
+В ООН вопросами этичного использования ИИ занимается [**Global AI Ethics and Governance Observatory при ЮНЕСКО**](https://www.unesco.org/ethics-ai/en?hub=32618). В ноябре 2021 выпустили свод рекомендаций по использованию ИИ, уделяя внимание проблеме bias
+[Recommendation on the Ethics of Artificial Intelligence](https://unesdoc.unesco.org/ark:/48223/pf0000381137)
 
-Regulation (EU) 2024/1689 laying down harmonised rules on artificial intelligence (AI Act) – первая в мире попытка законодательного регулирования рынка ИИ. В основном документ фокусируется на предотвращении катастроф (ядерное оружие, причинение вреда человеку, вмешательство в демократические процессы). Внимание отводится рискам, сопряжённым с работой с чувствительной информацией.
+Европейский союз начал создавать экспертные группы по разработке рекомендаций в сфере ИИ в 2017 году. В 2020 году European Commision (высший орган исполнительной власти Европейского союза) утвердила [White Paper](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52020DC0065) – документ, очерчивающий этические проблемы ИИ-сферы, по сути – свод рекомендаций по ответственному обращению с данными и добросовестному применению искусственного интеллекта.
+
+Regulation (EU) 2024/1689 laying down harmonised rules on artificial intelligence [(AI Act)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32024R1689#cpt_II) – первая в мире попытка законодательного регулирования рынка ИИ. В основном документ фокусируется на предотвращении катастроф (ядерное оружие, причинение вреда человеку, вмешательство в демократические процессы). Внимание отводится рискам, сопряжённым с работой с чувствительной информацией.
+
+![image](https://github.com/user-attachments/assets/3499dd16-a7e4-4435-80de-fda2e1b64ea4)
+
 
 Не регулирует использование minimal-risk или no-risk моделей – их применение на территории ЕС ограничивается рекомендациями.
-AI Act вступил в силу 1 августа 2024, но требования, указанные в некоторых его пунктах, будут вступать в силу постепенно вплоть до 2027 года. За исполнением следит European AI Office.
-Cтатья в журнале Frontiers с анализом европейских законодательных мер в сфере ИИ и их эффективности.
+AI Act вступил в силу 1 августа 2024, но требования, указанные в некоторых его пунктах, будут вступать в силу постепенно вплоть до 2027 года. За исполнением следит [European AI Office](https://digital-strategy.ec.europa.eu/en/policies/ai-office).
+Cтатья в журнале [Frontiers](https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2024.1393259/full) с анализом европейских законодательных мер в сфере ИИ и их эффективности.
 
-В России – Национальный центр развития искусственного интеллекта при Правительстве Российской Федерации + НКО Альянс в сфере искусственного интеллекта, разработавший первый в России Кодекс этики – подписание добровольное.
+В России – [**Национальный центр развития искусственного интеллекта при Правительстве Российской Федерации**](https://ai.gov.ru/) + НКО **Альянс в сфере искусственного интеллекта**, разработавший первый в России [Кодекс этики](https://ethics.a-ai.ru/) – подписание добровольное.
 Принцип в России – саморегулирование (нет формальных требований принимать кодекс, но плюсик в карму)
 
-**Частные:**
+![image](https://github.com/user-attachments/assets/25956988-98d1-44ff-9bda-c74dc676a243)
+
+
+### Частные:
 
 Toloka.ai способствуют интеграции ИИ в бизнес-процессы, занимаются обучением моделей, выявлением security-related рисков. Кроме этого red-teams тренируют модели выдерживать атаки, отвечать на некорректные запросы, распознавать опасные промты.
 
-Driving Responsible AI
-AI Safety & Red Teaming
+[Driving Responsible AI](https://toloka.ai/responsible-ai)
+[AI Safety & Red Teaming](https://toloka.ai/ai-safety)
 
-OpenAI: мы работаем над предотвращением bias, но как и насколько успешно – мы не скажем… (note: Constitutional AI: Harmlessness from AI Feedback)
-В публикациях на сайте OpenAI уделяет внимание предотвращению катастроф, документация по bias и регуляции поведения немногочисленна.
+OpenAI: мы работаем над предотвращением bias, но как и насколько успешно – мы не скажем… (note: [Constitutional AI: Harmlessness from AI Feedback](https://arxiv.org/pdf/2212.08073))
+В публикациях на сайте OpenAI уделяет внимание предотвращению [катастроф](https://cdn.openai.com/openai-preparedness-framework-beta.pdf), документация по bias и регуляции поведения немногочисленна.
 
-Safety & Responsibility
-How should AI systems behave, and who should decide? от 2023 года
-Snapshot of ChatGPT model behavior guidelines от 2022 года
+[Safety & Responsibility](https://openai.com/safety/)
+[How should AI systems behave, and who should decide?](https://openai.com/index/how-should-ai-systems-behave/) от 2023 года
+[Snapshot of ChatGPT model behavior guidelines](https://cdn.openai.com/snapshot-of-chatgpt-model-behavior-guidelines.pdf) от 2022 года
 
 Google 😬
-Responsible AI and Human Centered Technology (RAI-HCT) team
+[Responsible AI and Human Centered Technology (RAI-HCT) team](https://research.google/teams/responsible-ai/)
 
-Google AI Ethics Team Crumbles As Leader Departs And Faces Restructuring (январь 2024)
+[Google AI Ethics Team Crumbles As Leader Departs And Faces Restructuring](https://hyscaler.com/insights/google-ai-ethics-team-changes/) (январь 2024)
 
 
 ## Зачем это надо
