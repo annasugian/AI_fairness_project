@@ -8,6 +8,7 @@
 - *AI Ethics* относится к этическим принципам и гайдлайнам, которые регулируют разработку, развертывание и использование искусственного интеллекта. Она обеспечивает работу систем ИИ справедливым, прозрачным, подотчетным (accountable) и полезным для общества образом.
 ## Кто этим занимается
 ## Зачем это надо
+### Вроде авторитетные ресерчи
 - [The Mirror in the Machine: Generative AI, Bias, and the Quest for Fairness](https://medium.com/towards-data-science/the-mirror-in-the-machine-generative-ai-bias-and-the-quest-for-fairness-c39b03a6d48d) 
  [Medium.com, 2024] - Эксперимент по оценке влияния искусственного интеллекта на принятие решений о приеме на работу. Результаты для GPT-3.5 показали, что предпочтение отдавалось белому кандидату. В результате оценки было принято решение о найме белого кандидата в 100% случаев. Автор ввел в модель искусственного интеллекта 10 профилей, идентичных по квалификации и опыту, за исключением имен и этнической принадлежности кандидатов (белые и афроамериканцы). 2 этапа: Методы и результаты составления резюме и методы и результаты оценки резюме. ![image](https://github.com/user-attachments/assets/65b12744-ea52-4409-9dac-8c2c1aa16c71)
 
@@ -20,6 +21,12 @@
 - [Let's Do a Thought Experiment: Using Counterfactuals to Improve Moral Reasoning](https://arxiv.org/abs/2306.14308) [arXivб 2023] - В этой работе авторы предлагают новую систему подсказок - thought experiments - для обучения языковых моделей более эффективному моральному обоснованию с использованием контрфактуальных данных. Результаты экспериментов показывают, что их структура позволяет получать из модели вопросы и ответы, противоречащие фактам, что, в свою очередь, помогает повысить точность выполнения задачи "Моральные сценарии" на 9-16% по сравнению с другими базовыми показателями с нулевым результатом. ![image](https://github.com/user-attachments/assets/fa0a4ef1-e105-4c4c-8d4e-428abd24bfa8)
 
 - [Diversity and Inclusion in AI for Recruitment: Lessons from Industry Workshop](https://arxiv.org/abs/2411.06066) [arXiv, 2024] - Это исследование направлено на изучение практического применения руководящих принципов D&I в системах онлайн-поиска работы, управляемых искусственным интеллектом, в частности, на изучение того, как эти принципы могут быть реализованы на практике для создания более инклюзивных процессов найма. Авторы провели семинар по совместному проектированию с крупной международной рекрутинговой компанией, в ходе которого были рассмотрены два варианта использования ИИ при подборе персонала. Истории пользователей и их личные данные были использованы для оценки влияния ИИ на различные заинтересованные стороны. Полученные результаты предполагают разработку индивидуальных руководящих принципов по разработке и внедрению ИИ и постоянную поддержку для обеспечения эффективного внедрения инклюзивных практик ИИ. ![image](https://github.com/user-attachments/assets/aae7adf6-424f-44b5-bd3e-1581424ec467)
+
+ ### Веб-статьи, за авторитетность которых я не отвечаю
+- [What measures does DeepSeek take to prevent AI bias?](https://zilliz.com/ai-faq/what-measures-does-deepseek-take-to-prevent-ai-bias) [ziliz]
+- [AI Bias and Safety: Only Fresh & Relevant Examples](https://community.openai.com/t/ai-bias-and-safety-only-fresh-relevant-examples/720680) [OpenAi Developer Community, 2024]
+- [Bias Detection and Correction Techniques for OpenAI Models](https://www.signitysolutions.com/tech-insights/openai-bias-detection-correction) [Signity Solutions, 2024]
+- [An Analysis of Chinese LLM Censorship and Bias with Qwen 2 Instruct](https://huggingface.co/blog/leonardlin/chinese-llm-censorship-analysis) [Hugging Face, 2024]
 
 ## Методы оценки предвзятости
 - [Measuring Bias in AI Models: An Statistical Approach Introducing N-Sigma](https://arxiv.org/pdf/2304.13680) - Метод N-Sigma - статистический подход, используемый для разработки новых систем оценки рисков на основе анализа предвзятости.
