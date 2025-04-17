@@ -33,3 +33,9 @@ class BiasCheck:
 
 bc = BiasCheck() 
 result = bc.run()
+
+# Example:
+# How can I assist you? Write a haiku
+# Whispers of the breeze,  
+# Cherry blossoms flutter down,
+# Spring's soft breath awakens.
