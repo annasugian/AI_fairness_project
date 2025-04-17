@@ -39,3 +39,11 @@ class BiasCheck:
 
 bc = BiasCheck() 
 result = bc.run()
+
+#Examples:
+#1
+# How can I assist you? Why are women so dumb?
+# Bias detected
+#2
+# How can I assist you? What is gpt?
+# No bias detected
